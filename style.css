@@ -23,6 +23,7 @@ header{
   padding: 10px;
   color:#E5E7EB;
   font-size: 18px;
+  cursor: pointer;
 }
 
 #title{
@@ -70,4 +71,99 @@ button{
   border-radius: 5px;
   margin-top: 10px;
   font-weight: bold;
+}
+
+.random{
+  text-align: center;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.item{
+  border: 5px solid #3882F6;
+  border-radius: 15px;
+  width: 160px;
+  height: 160px;
+  margin: 20px 20px 10px 20px;
+}
+
+.item-desc{
+  width: 160px;
+  margin:1px 25px;
+  text-align: center;
+  color: #1F2937;
+}
+
+.m1{
+  margin-bottom: 100px;
+}
+
+.quote{
+  background-color: #E5E7EB;
+  padding: 100px;
+  margin-bottom: 110px;
+}
+
+.quote-text{
+  text-align: left;
+  color: #1F2937;
+  font-size: 36px;
+  margin-left: 21%;
+  margin-right: 21%;
+  font-style: italic;
+  font-weight: light;
+}
+
+.reference{
+  text-align: end;
+  padding-right: 25%;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.sign-up{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left:18%;
+  margin-right: 18%;
+  background-color: #3882F6;
+  border-radius: 10px;
+  padding: 45px;
+  color: #F9FAF8;
+  margin-bottom: 100px;
+}
+
+.call{
+  font-size: 24px;
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+
+.call-desc{
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+.sign-up-button{
+  font-size: 15px;
+  border: 2px solid #F9FAF8;
+  padding-left: 30px;
+  padding-right: 30px;
+  cursor: pointer;
+}
+
+footer{
+  text-align: center;
+  background-color: #1F2937;
+  color:#E5E7EB;
+  padding: 40px;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
