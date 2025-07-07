@@ -1,0 +1,4 @@
+movie - 6ca78167adf9436e49ca16cc7c72b790
+recepie - https://www.themealdb.com/api/json/v1/1/search.php?s=Pizza
+news - 9f5320deff7f48e0b91d0f2af9f29643
+weather - 61a1d8419f9d307924240958d89e284d
